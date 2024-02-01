@@ -1,0 +1,4 @@
+C:\Projects\C# Projects\List_GenericCollection\List_GenericCollection\obj\Debug\net8.0\List_GenericCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Projects\List_GenericCollection\List_GenericCollection\obj\Debug\net8.0\List_GenericCollection.AssemblyInfoInputs.cache
+C:\Projects\C# Projects\List_GenericCollection\List_GenericCollection\obj\Debug\net8.0\List_GenericCollection.AssemblyInfo.cs
+C:\Projects\C# Projects\List_GenericCollection\List_GenericCollection\obj\Debug\net8.0\List_GenericCollection.csproj.CoreCompileInputs.cache
